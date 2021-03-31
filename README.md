@@ -40,9 +40,9 @@ The 5th argument for both structural and thermal boundary conditions is the meth
 
 ### Number of Constraints
 This parameter in a whole integer that provides the user the freedom to apply the constraints from a chosen set of possibilities:
-"1" : Applies only the volume fraction constraint.
-"2" : Applies the volume fraction and overhang constraint (set at 45).
-"3" : Applies the volume fraction, overhang and bridge length constraint. Note that the maximum bridge length constraint input is considered only when this option is used.
+1) "1" : Applies only the volume fraction constraint.
+2) "2" : Applies the volume fraction and overhang constraint (set at 45).
+3) "3" : Applies the volume fraction, overhang and bridge length constraint. Note that the maximum bridge length constraint input is considered only when this option is used.
 
 ## Note:
 
