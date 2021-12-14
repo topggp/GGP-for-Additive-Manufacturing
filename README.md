@@ -2,6 +2,16 @@
 
 Based off from the recently published article in Ref[1], GGP is a MATLAB based code that has successfully integrated major geometric projection based topology optimizer, i.e., Geometric Projection (GP), MMC (Moving Morphable Components) and MNA (Moving Node Approach). This repository implements the Additive Layer Manufacturing (or 3D printing) constraints into GGP.
 
+## How To cite us
+
+@article{bhat2021some,
+  title={On some applications of Generalized Geometric Projection to optimal 3D printing},
+  author={Bhat, Krishnaraj Vilasraj and Capasso, Gabriele and Coniglio, Simone and Morlier, Joseph and Gogu, Christian},
+  journal={Computers \& Graphics},
+  year={2021},
+  publisher={Elsevier}
+}
+
 ## How To Use
 
 Running the code is simple enough! Navigate to the directory in MATLAB file browser where the files have been downloaded, and use the following command in the MATLAB console to run structural topology optimizer:
